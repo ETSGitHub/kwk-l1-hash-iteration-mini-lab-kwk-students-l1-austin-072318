@@ -9,7 +9,8 @@ end
 
 def iterate_through_hash
   count = 0
-  
+  summer_olympics.each do |country, year|
+    
 end
 
 def iterate_through_keys
