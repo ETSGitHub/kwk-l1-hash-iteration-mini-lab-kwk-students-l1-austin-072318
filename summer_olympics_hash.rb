@@ -6,7 +6,7 @@ end
 # def add_a_key_value_pair
 #   summer_olympics[:Atlanta] = "1996"
 # end
-summer_olympics
+create_olympics_hash
 
 # def iterate_through_hash
 #   count = 0
