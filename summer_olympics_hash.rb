@@ -7,11 +7,11 @@
 puts summer_olympics
 
 # def iterate_through_hash
-#   count = 0
-#   summer_olympics.each do |country, year|
-#     puts "The #{year} summer olympics took place in #{country}."
-#   count += 1
-# end
+   count = 0
+   summer_olympics.each do |country, year|
+     puts "The #{year} summer olympics took place in #{country}."
+   count += 1
+ end
 # end
 
 
