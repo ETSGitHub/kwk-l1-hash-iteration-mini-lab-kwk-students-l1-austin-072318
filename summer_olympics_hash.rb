@@ -14,7 +14,7 @@ def iterate_through_hash
   summer_olympics[:Atlanta] = "1996"
    count = 0
    summer_olympics.each do |country, year|
-     puts "The #{year} summer olympics took place in #{country}."
+     puts "The #{country} summer olympics took place in #{year}."
    count += 1
  end
 end
