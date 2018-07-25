@@ -10,7 +10,7 @@ end
 def iterate_through_hash
   count = 0
   summer_olympics.each do |country, year|
-    
+    puts "The #{year} summer olympics took place in #{country}."
 end
 
 def iterate_through_keys
