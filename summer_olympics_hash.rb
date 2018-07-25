@@ -13,9 +13,9 @@ puts summer_olympics
    count += 1
  end
 # end
-def iterate_through_keys
+#def iterate_through_keys
   summer_olympics.each_key{|country| = country.upcase}
   puts country
-end
+#end
 
 
