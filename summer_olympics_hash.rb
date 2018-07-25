@@ -13,5 +13,6 @@ def iterate_through_hash
     puts "The #{year} summer olympics took place in #{country}."
   count += 1
 end
+end
 
 
