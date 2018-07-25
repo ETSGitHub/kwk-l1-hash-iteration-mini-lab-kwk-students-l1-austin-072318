@@ -19,6 +19,5 @@ def iterate_through_keys
   summer_olympics.each_key{|country| puts country.upcase}
 end
 
-iterate_through_hash
-iterate_through_keys
+
 
