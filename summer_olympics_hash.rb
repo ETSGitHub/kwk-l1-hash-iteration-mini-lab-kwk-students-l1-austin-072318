@@ -14,7 +14,7 @@ puts summer_olympics
  end
 # end
 #def iterate_through_keys
-  summer_olympics.each_key{|country| = country.upcase}
+  summer_olympics.each_key{|country| == country.upcase}
   puts country
 #end
 
